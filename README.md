@@ -37,8 +37,8 @@ List of supported installation setups for panel and Wings (installations support
 bash <(curl -s https://pterodactyl-installer.se)
 ```
 - After the script is runned please press 0 and enter
-- Add The ip to your domain ```bash panel.example.com ``` 
-- Then select ```bash Y ``` For everything shown When ```bash Y/N ``` Show up
+- Add The ip to your domain ```panel.example.com``` 
+- Then select ```Y``` For everything shown When ```Y/N``` Show up
 
 
 
