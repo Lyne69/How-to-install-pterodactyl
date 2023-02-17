@@ -39,6 +39,9 @@ bash <(curl -s https://pterodactyl-installer.se)
 - After the script is runned please press 0 and enter
 - Add The ip to your domain ```panel.example.com``` 
 - Then select ```Y``` For everything shown When ```Y/N``` Show up
+- After the panel is installed follow the pterodactyl docs for installation of ```Wings```
+
+[Pterodactyl Wings Docs](https://pterodactyl.io/wings/1.0/installing.html)
 
 
 
